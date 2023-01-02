@@ -1,0 +1,28 @@
+{
+    "name": "andreyartamonov/editorjs",
+    "license": "MIT",
+
+    "autoload": {
+        "psr-4": {
+            "AndreyArtamonov\\EditorJS\\": "src/"
+        }
+    },
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AndreyArtamonov\\EditorJS\\EditorJSServiceProvider"
+            ]
+        }
+    },
+
+    "authors": [
+        {
+            "name": "Andrey Artamonov",
+            "email": "bizgrof@gmail.com"
+        }
+    ],
+
+    "minimum-stability": "stable",
+    "require": {}
+}
