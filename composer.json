@@ -1,6 +1,7 @@
 {
     "name": "andreyartamonov/editorjs",
     "license": "MIT",
+    "description": "Render HTML code for EditorsJS",
 
     "autoload": {
         "psr-4": {
